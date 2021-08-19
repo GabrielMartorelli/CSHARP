@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{055790D0-1527-4531-920D-5924D85DFFB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sitema_PI</RootNamespace>
+    <AssemblyName>sitema_PI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexao.cs" />
+    <Compile Include="fmr_cadastro_aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_cadastro_aluno.Designer.cs">
+      <DependentUpon>fmr_cadastro_aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_cursos_disponiveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_cursos_disponiveis.Designer.cs">
+      <DependentUpon>fmr_cursos_disponiveis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_editar_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_editar_produtos.Designer.cs">
+      <DependentUpon>fmr_editar_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_exibir_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_exibir_produtos.Designer.cs">
+      <DependentUpon>fmr_exibir_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_cadastrar_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_cadastrar_produtos.Designer.cs">
+      <DependentUpon>fmr_cadastrar_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_menu_logar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_menu_logar.Designer.cs">
+      <DependentUpon>fmr_menu_logar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_menu_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_menu_principal.Designer.cs">
+      <DependentUpon>fmr_menu_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_menu_seguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_menu_seguro.Designer.cs">
+      <DependentUpon>fmr_menu_seguro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmr_cadastro_aluno.resx">
+      <DependentUpon>fmr_cadastro_aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_cursos_disponiveis.resx">
+      <DependentUpon>fmr_cursos_disponiveis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_editar_produtos.resx">
+      <DependentUpon>fmr_editar_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_exibir_produtos.resx">
+      <DependentUpon>fmr_exibir_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_cadastrar_produtos.resx">
+      <DependentUpon>fmr_cadastrar_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_menu_logar.resx">
+      <DependentUpon>fmr_menu_logar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_menu_principal.resx">
+      <DependentUpon>fmr_menu_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_menu_seguro.resx">
+      <DependentUpon>fmr_menu_seguro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales_sale_supermarket_stock_market_icon_153849.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

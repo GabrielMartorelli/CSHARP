@@ -1,0 +1,16 @@
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\bin\Debug\Ajuda.exe.config
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\bin\Debug\Ajuda.exe
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\bin\Debug\Ajuda.pdb
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.csprojAssemblyReference.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda1.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda2.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda3.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda4.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda5.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.Properties.Resources.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.csproj.GenerateResource.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.csproj.CoreCompileInputs.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.exe
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.pdb
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Ajuda - PI C#\Ajuda\obj\Debug\Ajuda.frm_ajuda6.resources

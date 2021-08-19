@@ -1,0 +1,75 @@
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.exe.config
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.exe
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.pdb
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\MySql.Data.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\Google.Protobuf.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\Zstandard.Net.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\Renci.SshNet.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\System.Buffers.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\bin\Debug\MySql.Data.xml
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.exe.config
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_alunos.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_cursos.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_logar.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_menu.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_menu_logado.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_produto.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_professores.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_vendas.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.Properties.Resources.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.CopyComplete
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.exe
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.pdb
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_alunos.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_cursos.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_menu_login.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_prod_prof.resources
+C:\Users\rodri\source\repos\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_vendas.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.exe.config
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.exe
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\sistema_estoque.pdb
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\Google.Protobuf.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\Zstandard.Net.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\Renci.SshNet.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\System.Memory.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\System.Buffers.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\bin\Debug\MySql.Data.xml
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csprojAssemblyReference.cache
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.exe.config
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_alunos.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_cursos.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_menu_login.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_prod_prof.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_ajuda_vendas.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_alunos.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_cursos.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_logar.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_menu.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_menu_logado.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_produto.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_professores.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.fmr_vendas.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.Properties.Resources.resources
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.GenerateResource.cache
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.CoreCompileInputs.cache
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.csproj.CopyComplete
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.exe
+C:\Users\Martorelli PC\Desktop\sistema_estoque\sistema_estoque\obj\Debug\sistema_estoque.pdb

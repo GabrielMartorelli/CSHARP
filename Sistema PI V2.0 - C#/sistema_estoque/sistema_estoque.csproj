@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16991B22-BDFC-4C32-8BDB-91190739EF16}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sistema_estoque</RootNamespace>
+    <AssemblyName>sistema_estoque</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fmr_ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda.Designer.cs">
+      <DependentUpon>fmr_ajuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_ajuda_alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda_alunos.Designer.cs">
+      <DependentUpon>fmr_ajuda_alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_ajuda_cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda_cursos.Designer.cs">
+      <DependentUpon>fmr_ajuda_cursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_ajuda_menu_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda_menu_login.Designer.cs">
+      <DependentUpon>fmr_ajuda_menu_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_ajuda_prod_prof.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda_prod_prof.Designer.cs">
+      <DependentUpon>fmr_ajuda_prod_prof.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_ajuda_vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_ajuda_vendas.Designer.cs">
+      <DependentUpon>fmr_ajuda_vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_alunos.Designer.cs">
+      <DependentUpon>fmr_alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_cursos.Designer.cs">
+      <DependentUpon>fmr_cursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_logar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_logar.Designer.cs">
+      <DependentUpon>fmr_logar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_menu.Designer.cs">
+      <DependentUpon>fmr_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_menu_logado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_menu_logado.Designer.cs">
+      <DependentUpon>fmr_menu_logado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_produto.Designer.cs">
+      <DependentUpon>fmr_produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_professores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_professores.Designer.cs">
+      <DependentUpon>fmr_professores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_vendas.Designer.cs">
+      <DependentUpon>fmr_vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmr_ajuda.resx">
+      <DependentUpon>fmr_ajuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_ajuda_alunos.resx">
+      <DependentUpon>fmr_ajuda_alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_ajuda_cursos.resx">
+      <DependentUpon>fmr_ajuda_cursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_ajuda_menu_login.resx">
+      <DependentUpon>fmr_ajuda_menu_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_ajuda_prod_prof.resx">
+      <DependentUpon>fmr_ajuda_prod_prof.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_ajuda_vendas.resx">
+      <DependentUpon>fmr_ajuda_vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_alunos.resx">
+      <DependentUpon>fmr_alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_cursos.resx">
+      <DependentUpon>fmr_cursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_logar.resx">
+      <DependentUpon>fmr_logar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_menu.resx">
+      <DependentUpon>fmr_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_menu_logado.resx">
+      <DependentUpon>fmr_menu_logado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_produto.resx">
+      <DependentUpon>fmr_produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_professores.resx">
+      <DependentUpon>fmr_professores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_vendas.resx">
+      <DependentUpon>fmr_vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

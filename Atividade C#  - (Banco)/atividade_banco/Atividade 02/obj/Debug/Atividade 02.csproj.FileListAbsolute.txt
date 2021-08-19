@@ -1,0 +1,32 @@
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\bin\Debug\Atividade 02.exe.config
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\bin\Debug\Atividade 02.exe
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\bin\Debug\Atividade 02.pdb
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade 02.csprojAssemblyReference.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade_02.bancario.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade_02.Properties.Resources.resources
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade 02.csproj.GenerateResource.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade 02.csproj.CoreCompileInputs.cache
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade 02.exe
+C:\Users\Martorelli PC\Desktop\Projetos de Programação\Aulas - C#\Aula04\Atividade 02\obj\Debug\Atividade 02.pdb
+C:\Users\rodri\Desktop\Aula04\Atividade 02\bin\Debug\Atividade 02.exe.config
+C:\Users\rodri\Desktop\Aula04\Atividade 02\bin\Debug\Atividade 02.exe
+C:\Users\rodri\Desktop\Aula04\Atividade 02\bin\Debug\Atividade 02.pdb
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade 02.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade_02.bancario.resources
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade_02.Properties.Resources.resources
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade_02.saldo.resources
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade 02.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade 02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade 02.exe
+C:\Users\rodri\Desktop\Aula04\Atividade 02\obj\Debug\Atividade 02.pdb
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\bin\Debug\Atividade 02.exe.config
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\bin\Debug\Atividade 02.exe
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\bin\Debug\Atividade 02.pdb
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade 02.csprojAssemblyReference.cache
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade_02.bancario.resources
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade_02.Properties.Resources.resources
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade_02.saldo.resources
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade 02.csproj.GenerateResource.cache
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade 02.csproj.CoreCompileInputs.cache
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade 02.exe
+C:\Users\Martorelli PC\Desktop\atividade_banco\atividade_banco\Atividade 02\obj\Debug\Atividade 02.pdb
